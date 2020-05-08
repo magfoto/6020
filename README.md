@@ -14,7 +14,7 @@ The main directories of this repo contains project files for three main research
 
 #### Generative Music Experiments (on SoundCloud)
 
-![](/Users/magfoto/PhD Study/_courses/DIGM 6020 - Vertical Studio Lab II/6020-Final-Submission/6020/3aa19cff575b1828.jpg)
+![](3aa19cff575b1828.jpg)
 
 [Listen to the content, inclujding additional music making results.](https://www.marcusgordon.com/6020)
 
