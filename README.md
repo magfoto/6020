@@ -16,23 +16,10 @@ The main directories of this repo contains project files for three main research
 
 ![](3aa19cff575b1828.jpg)
 
-[Listen to the content, inclujding additional music making results.](https://www.marcusgordon.com/6020)
+[Listen to the content, including additional music making results.](https://soundcloud.com/magfoto/sets/generative-music-experiments)
 
 
 
-#### Detached Zone
+#### 
 
-[Listen to the playlist](https://soundcloud.com/marcus-a-gordon/sets/generative-music-experiments)
-
-
-
-#### Disconnected Slip
-
-[Listen to the playlist](https://soundcloud.com/marcus-a-gordon/sets/generative-music-experiments)
-
-
-
-#### Steam Register
-
-[Listen to the playlist](https://soundcloud.com/marcus-a-gordon/sets/generative-music-experiments)
 
